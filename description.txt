@@ -1,0 +1,3 @@
+Bridge name and pictures/xlsx,  provides the names and numbers of the bridges involved in this study.
+The original pictrure of cable-supported bridges collected from the Internet can be found in 'cable_stayed_bridge' and 'suspension_bridge'.
+the Standard pylon form is saved in the file of 'standard cable-stayed bridge pylon form' and 'standard suspension bridge pylon form'
